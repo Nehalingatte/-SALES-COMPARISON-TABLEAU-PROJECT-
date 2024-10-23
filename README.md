@@ -47,9 +47,6 @@ Average Sales per Order
 No. of Customers
 No. of Orders
 No. of Products in Sale
-Sample Output:
-
-(Explain the line graph and bar graph)
 
 
 
